@@ -32,4 +32,34 @@ console.log(typeof strvalue);
 console.log(strvalue);
 
 
+//------------------------------operators-------------------------
+
+let num =3
+let outNum=-num
+console.log(outNum);
+
+
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(2**2);
+console.log(2/2);
+console.log(2%2);
+
+let str1="chethu"
+let str2=" chinthu"
+let str3=str1+str2
+console.log(str3);
+
+console.log("2"+1);
+console.log(2+"2");
+console.log("2"+2+1);
+console.log(2+2+"3");
+
+
+
+
+
+
+
 
